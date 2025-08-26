@@ -114,6 +114,27 @@ The backbone of CrowdLens AI is powered by **qRaptor’s Agentic AI framework**,
 
 ---
 
+## 📁 Project Structure
+
+```bash
+crowdlens-ai
+├── public/               # Public assets and HTML template
+├── src/                  # React components and logic
+│   ├── components/       # UI components
+│   ├── pages/            # Page-level components (Home, Dashboard, etc.)
+│   ├── services/         # API and AI integration logic
+│   └── App.js            # Main application file
+├── screenshots/          # Screenshots for README (optional)
+│   ├── home.png
+│   ├── detect.png
+│   └── dashboard.png
+├── package.json          # Dependencies and scripts
+├── tailwind.config.js    # Tailwind CSS configuration
+└── README.md             # Project documentation
+```
+
+---
+
 ## 📌 How CrowdLens AI Works
 
 1. User snaps a **photo** of the civic issue.  
