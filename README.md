@@ -208,6 +208,8 @@ We welcome contributions to improve **CrowdLens AI Prototype**!
 
 ## 📝 License
 
+Copyright (c) 2025 Shaikh Alfishan.
+
 This project is licensed under the [MIT License](LICENSE).
 
 
