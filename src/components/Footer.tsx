@@ -68,7 +68,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-slate-800 mt-6 sm:mt-8 pt-6 sm:pt-8 text-center text-slate-400">
-          <p className="text-sm sm:text-base">&copy; 2024 CrowdLens AI. All rights reserved. Built with ❤️ for better communities.</p>
+          <p className="text-sm sm:text-base">&copy; 2025 CrowdLens AI. All rights reserved. Built with ❤️ for better communities.</p>
         </div>
       </div>
     </footer>
