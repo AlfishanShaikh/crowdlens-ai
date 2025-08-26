@@ -118,18 +118,25 @@ The backbone of CrowdLens AI is powered by **qRaptor’s Agentic AI framework**,
 
 ```bash
 crowdlens-ai
-├── public/               # Public assets and HTML template
-├── src/                  # React components and logic
-│   ├── components/       # UI components
+├── public/               # Static files and HTML template
+│   ├── index.html        # Root HTML file
+│   └── favicon.ico       # App favicon
+├── src/                  # React source code
+│   ├── assets/           # Images, icons, and other static assets
+│   ├── components/       # Reusable UI components
 │   ├── pages/            # Page-level components (Home, Dashboard, etc.)
-│   ├── services/         # API and AI integration logic
-│   └── App.js            # Main application file
+│   ├── services/         # API calls and AI integration logic
+│   ├── App.js            # Main React app component
+│   ├── index.js          # Entry point for React
+│   └── styles/           # Global styles / Tailwind configs
 ├── screenshots/          # Screenshots for README (optional)
 │   ├── home.png
 │   ├── detect.png
 │   └── dashboard.png
-├── package.json          # Dependencies and scripts
+├── package.json          # Project dependencies & scripts
 ├── tailwind.config.js    # Tailwind CSS configuration
+├── postcss.config.js     # PostCSS configuration
+├── vite.config.js        # Vite bundler configuration
 └── README.md             # Project documentation
 ```
 
