@@ -103,13 +103,13 @@ The backbone of CrowdLens AI is powered by **qRaptor’s Agentic AI framework**,
 > Below are sample screenshots from the **CrowdLens AI Prototype** for better understanding:
 
 ### Home Page  
-![Home Page](screenshots/home.png)  
+![Home Page](https://github.com/AlfishanShaikh/crowdlens-ai/blob/c9995ea37db3c51682217f66f9d467c4db155e27/public/home%20banner.png)  
 
 ### Issue Detection Page  
-![Issue Detection](screenshots/detect.png)  
+![Issue Detection](https://github.com/AlfishanShaikh/crowdlens-ai/blob/c9995ea37db3c51682217f66f9d467c4db155e27/public/Report%20Issue%20banner.png)  
 
 ### Complaint Report Dashboard  
-![Dashboard](screenshots/dashboard.png)  
+![Dashboard](https://github.com/AlfishanShaikh/crowdlens-ai/blob/c9995ea37db3c51682217f66f9d467c4db155e27/public/View%20Reports%20banner.png)  
 
 *(Place your actual screenshots inside a `screenshots/` folder in the repo and update the file names accordingly.)*
 
